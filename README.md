@@ -18,6 +18,7 @@ Print the number of words
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 #Developed by: THEJASWINI
 #Reference Number:212223110059
 test_string="python programming in linear algrbra"
@@ -26,7 +27,7 @@ res=len(test_string.split())
 print("The number of words in strings are:",str(res))
 ### OUTPUT:![image](https://github.com/thejaswinidhanaraj/Word-count/assets/148514511/245c9d80-04bf-436c-a499-8212da497133)
 
-
+```
 
 
 ## RESULT:
